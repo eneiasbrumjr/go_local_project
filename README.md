@@ -1,3 +1,17 @@
+<!-- Quick execution guidelines -->
+## Quick execution guidelines
+
+
+install GO
+Install Ansible
+
+In the terminal within this project, enter the ansible folder and run the command:
+
+ansible-playbook cluster.yml
+
+voilà!
+
+
 <!-- ACHIEVEMENTS -->
 ## ACHIEVEMENTS
 
